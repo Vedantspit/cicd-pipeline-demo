@@ -1,7 +1,7 @@
 # AIM: Study DevOps and implement CI/CD pipeline:
 
 # Netlify Setup:
-set up is done 
+ 1 set up is done 
 - Signup/Login on https://www.netlify.com/
 - Download build folder from here: https://drive.google.com/drive/folders/140T-1efrCwUqQ805lKRihMFC_XzPi3OY
 - Drag and drop build folder here you will get live url of your site: https://app.netlify.com/drop
